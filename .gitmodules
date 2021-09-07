@@ -1,0 +1,3 @@
+[submodule "BlueEngine/vendor/spdlog"]
+	path = BlueEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
